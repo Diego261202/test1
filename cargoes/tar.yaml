@@ -1,17 +1,17 @@
-abbreviation: NE
+abbreviation: tr
 available: false
-classes: 32
+classes: 64
 colour: 1
 id: 0
-label: NEWC
-longName: 'new cargo #0'
-name: 'New Cargo #0'
+label: ctar
+longName: tar
+name: Tar
 penaltyLength: 255
 penaltyLowerBound: 0
 price: 4112
 sprite:
-  filename: cargoes/new-cargo-0.png
+  filename: cargoes/tar.png
   left: 0
   top: 0
-unitName: Items
+unitName: Litres
 weight: 16
